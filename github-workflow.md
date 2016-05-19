@@ -28,7 +28,7 @@
 
 **Message Scrum Master on Slack before moving on!**
 
-10) AFTER ALL THIS, and ONLY after, submit pull request to the dev branch on the Github website: `git push *organization name* *dev*`
+10) AFTER ALL THIS, and ONLY after, submit pull request to the dev branch on the Github website... REMEMBER TO CHANGE BRANCH FROM MASTER TO DEV BRANCH!!!
 
 
 ###Keywords used on all commits!!!
