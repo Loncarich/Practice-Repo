@@ -49,7 +49,7 @@
 
 
 ### Rong 	[insert something here]
-### Kris 	[insert something here]
+### Kris 	[It's the  D-O-GG]
 ### Drew 	[insert something here]
 ### Austin 	[insert something here]
 
