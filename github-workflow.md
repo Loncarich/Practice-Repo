@@ -28,7 +28,7 @@
 
 **Message Scrum Master on Slack before moving on!**
 
-10) AFTER ALL THIS, and ONLY after, submit pull request to the dev branch on the Github website: `git push origin`
+10) AFTER ALL THIS, and ONLY after, submit pull request to the dev branch on the Github website: `git push *organization name* *dev*`
 
 
 ###Keywords used on all commits!!!
@@ -46,4 +46,11 @@
   [Refactor] - code does the same thing but it is better code
 
   [Docs] - changed the readme/gitignore
+
+
+### Rong 	[insert something here]
+### Kris 	[insert something here]
+### Drew 	[insert something here]
+### Austin 	[insert something here]
+
 
